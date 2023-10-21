@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#container>div{
+#container>span{
 	display: inline-block;
 	font-size: 20px;
 	color:#f00;
